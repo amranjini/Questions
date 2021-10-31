@@ -176,3 +176,11 @@ how to store images in DB
 self join.
     
 How do you retrieve data from DB.
+
+Junits:
+mock
+when condition
+Injectmock
+
+spy
+Mockito //Endpoints testing
