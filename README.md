@@ -13,9 +13,15 @@ Recursion ( factorial / palindrome)
 
 **************************************************************
 Starter springboot jars ?
+
 What happens when springboot application starts?
+
 Spring profiles (Annotations,implementation in code)
+
 Datasource (Db Connection)
+
 Lifecycle of spring bean
+
 Autowiring types
+
 Scope of Bean - Default one
