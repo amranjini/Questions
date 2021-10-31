@@ -163,3 +163,9 @@ how does hashmap Use Hashcode and Equals Methods of Objects?
     
 How Can You Use Comparable and Comparator Interfaces to Sort Collections?
     
+different types of collections. Difference between set and list. When to use which.
+    
+Different SQL joins like inner, outer, left etc.
+
+Topics like Rest APIs, Spring boot and java 8 features, annotations, rest template etc
+    
