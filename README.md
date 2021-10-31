@@ -135,3 +135,31 @@ What Is a Self Join in SQL?
 The self join, as its name implies, joins a table to itself. To use a self join, the table must contain a column (call it X) that acts as the primary key and a different column (call it Y) that stores values that can be matched up with the values in Column X. The values of Columns X and Y do not have to be the same for any given row, and the value in Column Y may even be null.
 
 Group By in SQL is used to arrange similar data into group and Order By in SQL is is used to sort the data in the ascending or descending order.
+    
+    Collections:
+
+Working of hashmap?
+What is difference between Comparable and Comparator interface?
+    
+How to remove duplicates from ArrayList?
+    
+What is LinkedHashMap in Java?
+    
+How can we create a synchronized collection from given collection?
+    
+What is the difference between HashSet and TreeSet?
+    
+What is the difference between HashMap and ConcurrentHashMap?
+    
+How does HashMap handle collisions in java?
+    
+Difference between fail fast/fail safe collections
+    
+Questions on ConcurrentModificationException and CopyOnWriteArrayList.
+    
+What is CopyOnWriteArrayList, how it is different than ArrayList and Vector?
+    
+how does hashmap Use Hashcode and Equals Methods of Objects?
+    
+How Can You Use Comparable and Comparator Interfaces to Sort Collections?
+    
