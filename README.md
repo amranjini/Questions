@@ -168,4 +168,11 @@ different types of collections. Difference between set and list. When to use whi
 Different SQL joins like inner, outer, left etc.
 
 Topics like Rest APIs, Spring boot and java 8 features, annotations, rest template etc
+
+how image is uploaded in spring.
     
+how to store images in DB
+    
+self join.
+    
+How do you retrieve data from DB.
