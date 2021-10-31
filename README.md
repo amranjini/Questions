@@ -33,6 +33,7 @@ Ternary operator , also called conditional operator is used to decide which valu
 Java 8 Features.
 
 What are the advantages of using the Optional class?
+
 Default keyowrd.
 
 What’s the purpose of Static methods and static variables?
@@ -184,3 +185,81 @@ Injectmock
 
 spy
 Mockito //Endpoints testing
+    
+sql join / inverse join / JPA join types
+    
+store image in DB
+    
+add without using operator
+    
+Jpa annotation
+    
+spring mvc architecture
+
+ircuit breakdown architecture.
+
+deployment.
+
+integration testing
+
+spring profiles.
+
+zuul
+keycloak
+eureka
+
+why eureka server is required.
+
+system down .
+    
+In System.out.println() ehat is system ,what is out,what is println?
+If you want to print a name in java how do you print it?
+can i overload a main method? If i want to overload a main method how should i do it?
+Can i override a main method?If i want to override a main method how should i do it?
+How you can sort a list in java?
+Answer :by using compareto()
+bubble sort
+
+
+How do you handle production issues?
+
+
+GCP:
+Upload/Download using SSH.
+
+scp <file to upload> <username>@<hostname>:<destination path>
+ssh user1@server1 'command'
+    
+Collection (interface) -- stream/parallel stream
+ 
+Related to Web services and its architecture
+    
+What is caching in hibernate?
+    
+What is an functional interface?
+    
+What is heap memory?
+
+what is rest webservice?
+what are the pre defined funtional interface in java
+
+
+Spring actuator
+Spring Starter
+Spring boot advantages
+fall back and error tolerance method in microservices
+
+Reverse a List
+Detect a loop in a list
+
+    what is rest webservice?
+what are the pre defined funtional interface in java
+
+
+Spring actuator
+Spring Starter
+Spring boot advantages
+fall back and error tolerance method in microservices
+
+Reverse a List
+Detect a loop in a list
