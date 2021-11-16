@@ -263,3 +263,57 @@ fall back and error tolerance method in microservices
 
 Reverse a List
 Detect a loop in a list
+    
+    
+
+select * from emp
+where name like 'A%';
+
+repate name and count
+
+select count(emp_name) from emp group by name having count(emp_name)>1;
+
+where s.id = d.id;
+join student on  dept.id = student.id;
+
+1. Question based on collection
+2. comparable and comparator
+3. Immutable
+4. String handling
+5. Difference between local and session storage
+6. Difference between setTimeOut and setInterval
+7.Javascript unit test framework
+can class run without main method ?
+collection ,spring hibernate use , difference between jsp servlet
+
+It was nice, mainly interviewed on core part and frame work, 
+in spring frame work they are asking about autowiring, 
+interface vs abstract class , joins also discussed, polymarphisam types
+Interview Questions
+About static block, static method, the execution flow
+
+OOPS concepts
+Answer Question
+Diff bw Hashmap and Concurrent Hashmap?
+Answer Question
+When will we get ConcurrentModificationException?
+Answer Question
+What are all the REST methods?
+Answer Question
+Explain about JSP modules.
+Answer Question
+Diff bw Comparator and Comparable interface with example.
+Answer Question
+Iterate a list using lambda expressions
+Answer Question
+Diff bw Abstract class and Interface?
+Answer Question
+Custom exception with example
+Answer Question
+Is custom exception is Runtime exception? and how? with example.
+Answer Question
+String, String builder, and String buffer
+
+ How did you implement dependency injection.
+ The first question in coding round was given a array return sum of maximum and minimum elements.
+The second question in coding round was given a string remove duplicate elements from the string.
